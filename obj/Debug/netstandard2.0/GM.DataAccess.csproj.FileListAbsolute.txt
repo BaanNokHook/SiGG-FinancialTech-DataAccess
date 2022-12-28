@@ -1,0 +1,15 @@
+C:\Users\Asus\Documents\globalmarket\src\GM.DataAccess\bin\Debug\netstandard2.0\GM.DataAccess.deps.json
+C:\Users\Asus\Documents\globalmarket\src\GM.DataAccess\bin\Debug\netstandard2.0\GM.DataAccess.dll
+C:\Users\Asus\Documents\globalmarket\src\GM.DataAccess\bin\Debug\netstandard2.0\GM.DataAccess.pdb
+C:\Users\Asus\Documents\globalmarket\src\GM.DataAccess\bin\Debug\netstandard2.0\GM.CommonLibs.dll
+C:\Users\Asus\Documents\globalmarket\src\GM.DataAccess\bin\Debug\netstandard2.0\GM.Model.dll
+C:\Users\Asus\Documents\globalmarket\src\GM.DataAccess\bin\Debug\netstandard2.0\GM.CommonLibs.pdb
+C:\Users\Asus\Documents\globalmarket\src\GM.DataAccess\bin\Debug\netstandard2.0\GM.Model.pdb
+C:\Users\Asus\Documents\globalmarket\src\GM.DataAccess\obj\Debug\netstandard2.0\GM.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\globalmarket\src\GM.DataAccess\obj\Debug\netstandard2.0\GM.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Documents\globalmarket\src\GM.DataAccess\obj\Debug\netstandard2.0\GM.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\globalmarket\src\GM.DataAccess\obj\Debug\netstandard2.0\GM.DataAccess.AssemblyInfo.cs
+C:\Users\Asus\Documents\globalmarket\src\GM.DataAccess\obj\Debug\netstandard2.0\GM.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\globalmarket\src\GM.DataAccess\obj\Debug\netstandard2.0\GM.DataAccess.csproj.CopyComplete
+C:\Users\Asus\Documents\globalmarket\src\GM.DataAccess\obj\Debug\netstandard2.0\GM.DataAccess.dll
+C:\Users\Asus\Documents\globalmarket\src\GM.DataAccess\obj\Debug\netstandard2.0\GM.DataAccess.pdb
